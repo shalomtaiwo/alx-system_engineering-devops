@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -At | grep -v /$ | head -11
+ls -At | head -10
